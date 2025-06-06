@@ -14,3 +14,9 @@ Fork the repo and use the button below to deploy this app with one click.
 </a>
 
 To deploy manually, see the guide at https://docs.render.com/deploy-django.
+
+Enzo
+21 98541-2949
+
+Eduardo 
+21 992068454
