@@ -11,7 +11,7 @@ python manage.py collectstatic --no-input
 # apply any database migrations that are outstanding
 python manage.py migrate
 
-if [[ $CREATE_SUPERUSER ]];
-then
-  python manage.py createsuperuser --no-input
-fi
+#if [[ $CREATE_SUPERUSER ]];
+#then
+#  python manage.py createsuperuser --no-input
+#fi
