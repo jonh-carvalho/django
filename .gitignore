@@ -1,2 +1,11 @@
 __pycache__
 venv
+db.sqlite3
+.env
+*.pyc
+*.pyo
+*.pyd
+*.log
+.idea/
+*.sqlite3
+.DS_Store
